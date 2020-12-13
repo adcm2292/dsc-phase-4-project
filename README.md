@@ -1,11 +1,12 @@
 
-# Phase 4 Project
+# Phase 4 Project: Time Series Modeling
 
-This notebook has been provided to you so that you can make use of the following starter code to help with the trickier parts of preprocessing the Zillow dataset. 
+## Top 5 Best Connecticut Zipcodes to Invest In 
 
-The notebook contains a rough outline the general order you'll likely want to take in this project. You'll notice that most of the areas are left blank. This is so that it's more obvious exactly when you should make use of the starter code provided for preprocessing. 
 
-**_NOTE:_** The number of empty cells are not meant to infer how much or how little code should be involved in any given step--we've just provided a few for your convenience. Add, delete, and change things around in this notebook as needed!
+
+The notebooks contain a rough outline the general order you'll likely want to take in this project. You'll notice that most of the areas are left blank. This is so that it's more obvious exactly when you should make use of the starter code provided for preprocessing. 
+
 
 # Some Notes Before Starting
 
