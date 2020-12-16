@@ -40,7 +40,8 @@ Let's begin by defining best:
 
 ### IV. EDA
 
-![alt text](http://../Images/Zipcodes.png)
+* ROI: Based on the historic ROI (3 year and 5 year), we selected the zipcodes in top 10th percentile for highest ROI ratios.
+* By doing this we narrowed down from 124 to 13 zipcodes.
 
 
 ### V. Modeling
