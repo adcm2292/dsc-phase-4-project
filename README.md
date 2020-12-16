@@ -39,7 +39,9 @@ Let's begin by defining best:
 * Number of CT zipcodes: 124
 
 ### IV. EDA
-[../Images/Zipcodes.png]
+
+![alt text](http://../Images/Zipcodes.png)
+
 
 ### V. Modeling
 
