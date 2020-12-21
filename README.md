@@ -44,9 +44,7 @@ Let's begin by defining best:
 SARIMAX 
 
 ### VI. Recommendation
+
 Invest in:
-* 6513
-* 6606
-* 6359
-* 6604
-* 6039
+
+![Recommendation](./Images/recommendation.png)
