@@ -24,14 +24,8 @@ The credit crisis resulting from the bursting of the housing bubble is an import
 
 What are the top 5 best zip codes for us to invest in?
 Let's begin by defining best:
-
-* What makes the value of a property go up?
-* Law of Supply and Demand.  Property values rise when a low supply of homes for sale meets strong buyer demand, as buyers compete in bidding wars to secure a home from the limited inventory.
-* Return On Investment
-* Average price over time
-* Jobs Market
-* Population growth
-* Access to the city center or other relevant landmarks
+* We used 3 year (2015-2018) Return On Investment ratio to measure 'best'.
+* After some preliminary analysis of the data, we have decided to make Connecticut our test state to optimize computational runtime.
 
 ### III. Cleaning and Obtaining Data
 
@@ -43,13 +37,14 @@ Let's begin by defining best:
 * ROI: Based on the historic ROI (3 year and 5 year), we selected the zipcodes in top 10th percentile for highest ROI ratios.
 * By doing this we narrowed down from 124 to 13 zipcodes.
 
+![Top13Zipcodes](./Images/13zipcodes.png)
 
 ### V. Modeling
 
 SARIMAX 
 
 ### VI. Recommendation
-
+Invest in:
 * 6513
 * 6606
 * 6359
